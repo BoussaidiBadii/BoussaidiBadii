@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badii Boussaidi</h1>
 <h3 align="center">🚀 Engineering Student | 🎭 Artist | 💻 Full Stack Developer </h3>
 
-## 🔥 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoussaidiBadii&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=BoussaidiBadii&theme=dark&hide_border=true" width="48%" />
-</p>
 
 
 ---
@@ -52,6 +47,12 @@
 </p>
 
 ---
+## 📊 GitHub Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoussaidiBadii&theme=github-dark&hide_border=true" />
+</p>
+
 
 ## 📫 Connect with Me  
 <p align="left">
