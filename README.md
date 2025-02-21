@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Badii Boussaidi</h1>
 <h3 align="center">🚀 Engineering Student | 🎭 Artist | 💻 Full Stack Developer </h3>
 
+## 🔥 GitHub Stats  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff9900&width=500&lines=Engineering+Student+%7C+Full-Stack+Developer;Symfony+%7C+Spring+Boot+%7C+React+%7C+Angular;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BoussaidiBadii&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=BoussaidiBadii&theme=dark&hide_border=true" width="48%" />
 </p>
+
 
 ---
 
