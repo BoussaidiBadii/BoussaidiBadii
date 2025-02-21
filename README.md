@@ -10,10 +10,10 @@
 ## 🚀 About Me
 
 - 🎓 **Engineering Student** - 4th year, passionate about software development  
-- 💻 **Full-Stack Developer** - Backend (Symfony, Spring Boot), Frontend (React, Angular)  
+- 💻 **Full-Stack Developer** 
 - 🎭 **Artist** - Love music, theater, and creative arts  
-- 📍 **Based in:** La Manouba, Tunisia  
-- 🎯 **Currently Learning:** Advanced Symfony, APIs, Security, React & Angular  
+- 📍 **Based in:**  Tunisia  
+- 🎯 **Currently Learning:**  APIs, Security, React & Angular , Devops
 
 ---
 
