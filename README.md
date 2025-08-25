@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Engineering Student** - 4th year, passionate about software development  
+- 🎓 **Engineering Student** - 5th year, passionate about software development  
 - 💻 **Full-Stack Developer** 
 - 🎭 **Artist** - Love music, theater, and creative arts  
 - 📍 **Based in:**  Tunisia  
