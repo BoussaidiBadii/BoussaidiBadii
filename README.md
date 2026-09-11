@@ -1,10 +1,10 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Hi%20👋,%20I'm%20Badii%20Boussaidi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Tunisia%20🇹🇳&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I%27m%20Badii%20Boussaidi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Tunisia%20%F0%9F%87%B9%F0%9F%87%B3&descSize=18&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+💻;Backend+Developer+%7C+PHP+%26+Symfony;Building+practical+web+applications;Music+%26+Theater+lover+🎭" alt="Typing SVG" />
+  <img src="./profile/typing.svg" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -59,16 +59,12 @@ class BadiiBoussaidi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BoussaidiBadii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoussaidiBadii&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BoussaidiBadii&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BoussaidiBadii&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="100%" src="./profile/snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
