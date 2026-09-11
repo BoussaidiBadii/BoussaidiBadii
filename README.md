@@ -1,73 +1,92 @@
-<h1 align="center">Hi 👋, I'm Badii Boussaidi</h1>
-<h3 align="center">🚀 Software Engineer </h3>
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Hi%20👋,%20I'm%20Badii%20Boussaidi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Tunisia%20🇹🇳&descSize=18&descAlignY=58" alt="header" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+💻;Backend+Developer+%7C+PHP+%26+Symfony;Building+practical+web+applications;Music+%26+Theater+lover+🎭" alt="Typing SVG" />
+</p>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/badii-boussaidi-030744208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=BoussaidiBadii&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Software Engineer** 
-- 🎭 **Artist** - Love music, theater, and creative arts  
-- 📍 **Based in:**  Tunisia  
+```php
+<?php
+
+class BadiiBoussaidi
+{
+    public string $role     = 'Software Engineer';
+    public string $location = 'Tunisia 🇹🇳';
+    public array  $focus    = ['Backend', 'Web Applications', 'System Design'];
+    public array  $passions = ['Music 🎶', 'Theater 🎭', 'Creative Arts 🎨'];
+
+    public function motto(): string
+    {
+        return 'Learn by building.';
+    }
+}
+```
+
+- 🔭 Building web applications with **Symfony**, **Spring Boot** and **React**
+- 🌱 Always learning: system architecture, APIs and automation
+- 🤝 Open to collaborations and freelance projects
+- 🎭 When I'm not coding, I'm playing music or acting on stage
 
 ---
 
-## 🌟 Tech Stack
+## 🛠️ Tech Stack
 
-### **🚀 Backend Development**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-### **🎨 Frontend Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Area | Technologies |
+|:---:|:---|
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,symfony,spring,mysql&theme=dark" alt="Backend" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=js,react,angular,html,css&theme=dark" alt="Frontend" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux&theme=dark" alt="Tools" /> |
 
-### **🛠️ Tools & Platforms**
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## 🔥 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoussaidiBadii&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BoussaidiBadii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoussaidiBadii&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 </p>
-
----
-## 📊 GitHub Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoussaidiBadii&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BoussaidiBadii&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 </p>
 
-
-## 📫 Connect with Me  
-<p align="left">
-  <a href="[https://www.linkedin.com/in/badii-boussaidi](https://www.linkedin.com/in/badii-boussaidi-030744208/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="https://github.com/BoussaidiBadii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BoussaidiBadii&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
 
-## 🎵 Fun Fact  
-🎶 *When I’m not coding, you’ll probably find me playing music or acting on stage!* 🎭  
+## 📫 Connect with Me
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/badii-boussaidi-030744208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Uncomment and add your email if you want it public:
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  -->
+</p>
 
-✨ **Made with ❤️ by Badii Boussaidi** ✨
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" alt="footer" />
+</p>
