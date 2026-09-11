@@ -8,11 +8,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **Engineering Student** - 5th year, passionate about software development  
-- 💻 **Full-Stack Developer** 
+- 💻 **Software Engineer** 
 - 🎭 **Artist** - Love music, theater, and creative arts  
 - 📍 **Based in:**  Tunisia  
-- 🎯 **Currently Learning:**  APIs, Security, React & Angular , Devops
 
 ---
 
