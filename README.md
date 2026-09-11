@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badii Boussaidi</h1>
-<h3 align="center">🚀 Engineering Student | 🎭 Artist | 💻 Full Stack Developer </h3>
+<h3 align="center">🚀 Software Engineer </h3>
 
 
 
